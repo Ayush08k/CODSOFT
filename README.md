@@ -12,8 +12,8 @@ Calculate total marks and average percentage.
 Assign grades and display results.
 
 Task 3: ATM Interface (GUI)
-Requires login PIN from the user and have only 3 chances 
-Password/PIn :- 1234 (later you can update it)
+Requires login PIN from the user and have only 3 chances. 
+Password/PIn :- 1234 (later you can update it). 
 Create an ATM class with withdraw, deposit, and checkBalance methods.
 Implement input validation and connect with user's bank account.
 
