@@ -4,9 +4,11 @@ Welcome to the CodSoft Java Development Internship repository! This repository d
 Tasks Overview
 Task 1: Number Guessing Game (GUI)
 Generate random numbers, prompt user guesses, and provide feedback.
+
 Task 2: Student Grade Calculator
 Calculate total marks and average percentage.
 Assign grades and display results.
+
 Task 3: ATM Interface (GUI)
 Requires login PIN from the user and have only 3 chances 
 Password/PIn :- 1234 (later you can update it)
