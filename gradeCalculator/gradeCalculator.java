@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+/**
+ *
+ * @author Ayush kumar
+ */
 class gradeCalculator {
 
     public static void main(String[] args) {
